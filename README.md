@@ -2,11 +2,11 @@
 
 ---
 
-**### Project**
+## Project
 - TITLE: NIA 정보화사업 성과관리 (2022.05-2022.12)
 - CONTENTS: TF-IDF/Logistic Regression 활용 Document similarity & Q&A(SR) Analysis
 
-**### Review**
+## Review
 
 #### 1. 프로젝트 내용
 - 특정 조건에 해당하는 정보화사업은 '사전협의' 절차를 거쳐야 하는데, 업무처리 절치 과정 중 EA포털 시스템상 권한/기능 등 한계로 인하여 업무 요청(Service Request)을 통해 해결해야만 하는 업무가 존재
