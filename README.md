@@ -22,9 +22,13 @@
 - 시스템에 영향을 미친 업무의 키워드(content)를 분류하여 의미상 중요한 키워드를 분석하기 위한 것이므로, Logistic Regression Model을 활용함
 - Text Mining의 similarity 측저에 가장 성능이 좋아 많이 사용되는 TF-IDF index를 활용함
 
+![confusionMatrix](data/_picture/confusion_matrix.png)
+
 #### 4. Insight
 - SR data에 대한 키워드 분석 결과, 사용자의 시스템 관련 서비스요청 중 **'요청', '수정', '변경', '삭제', '등록'**에 관한 내용이 많고 중요한 의미를 갖는다는 점을 발굴함
 - 해당 키워드가 포함된 Service Requests 내용을 살펴본 결과, 단순한 자료나 사업내용에 대한 수정, 변경 등 요청이 약 90% 이상으로 나타남
+
+![wordcloud](data/_picture/wordcloud.png)
 
 #### 5. Solution
 - Domain 특성상 아무런 제약없이 자료를 수정, 변경하면 안 된다는 점을 고려함
